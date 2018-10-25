@@ -1,0 +1,11 @@
+[package]
+name = "halite3_bot"
+description = "A bot for the Halite III AI competition (https://halite.io/)."
+version = "0.1.0"
+authors = ["Mark H. Colburn <colburn.mark@gmail.com>"]
+
+[dependencies]
+lazy_static = "1"
+rand = "0.5"
+
+
